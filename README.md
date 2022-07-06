@@ -1,16 +1,25 @@
-### Hi there 👋
+# Priscila Murillo — @primuri 
+## Sophomore at National University of Costa Rica 
+
+#### 🧠 Skills  
+* C++
+* HTML
+* Object-oriented programming
+* Discrete mathematics
+* Office automation
+* Power automate
+#
+#### 📘 Languages 
+* Spanish - Native or bilingual proficiency
+* English - Professional working proficiency
 
 <!--
-**primuri/primuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### 💻 Projects
+* 
+* 
+* 
 -->
+
+#
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=primuri)](https://github.com/primuri/github-readme-stats)
