@@ -1,5 +1,5 @@
 # Priscila Murillo — @primuri 
-## Sophomore at National University of Costa Rica 
+## Systems engineering student 
 
 #### 🧠 Skills  
 * C++
