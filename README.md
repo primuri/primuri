@@ -3,7 +3,6 @@
 
 #### 🧠 Skills  
 * C++
-* HTML
 * Object-oriented programming
 * Discrete mathematics
 * Office automation
