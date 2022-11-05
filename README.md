@@ -4,7 +4,6 @@
 #### 🧠 Skills  
 * C++
 * Object-oriented programming
-* Discrete mathematics
 * Office automation
 * Power automate
 #
