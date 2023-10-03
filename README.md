@@ -2,10 +2,10 @@
 ## Systems engineering student 
 
 #### 🧠 Skills  
-* C++, Java
+* C++, Java, Python
 * Object-oriented programming
 * Office automation
-* Web Development
+* Full Stack Web Development
 #
 #### 📘 Languages 
 * Spanish - Native or bilingual proficiency
